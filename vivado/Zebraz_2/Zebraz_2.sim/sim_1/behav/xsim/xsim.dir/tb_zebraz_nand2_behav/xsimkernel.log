@@ -1,0 +1,7 @@
+Running: xsim.dir/tb_zebraz_nand2_behav/xsimk.exe -simmode gui -wdb tb_zebraz_nand2_behav.wdb -simrunnum 0 -socket 62240
+Design successfully loaded
+Design Loading Memory Usage: 19104 KB (Peak: 19104 KB)
+Design Loading CPU Usage: 234 ms
+Simulation completed
+Simulation Memory Usage: 19980 KB (Peak: 19980 KB)
+Simulation CPU Usage: 374 ms

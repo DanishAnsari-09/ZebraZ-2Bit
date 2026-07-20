@@ -1,0 +1,20 @@
+## v1.0.0 07/07
+	-Set up vivado 
+	-Organised the folders required for neat documentation
+	-Setup workflow in modules
+
+## v1.0.1 07/07
+	-Designed zebraz_inv.v
+	-Developed testbench
+	-Simulated the model
+	-verified waveforms
+
+## v1.0.2 09/07
+	-Completed the documentation of the zebraz_inv
+
+## v1.0.3 12/07
+	-Designed zebraz_nand2
+	-Developed testbench
+	-Simulated the model
+	-verified waveforms
+	-Completed the documentation of the zebraz_nand2

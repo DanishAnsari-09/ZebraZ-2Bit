@@ -1,0 +1,13 @@
+Time resolution is 1 ps
+---------------------------------------------
+      Zebraz NAND2 Testbench
+---------------------------------------------
+Time	A	B	Y
+0	0	0	1
+10000	0	1	1
+20000	1	0	1
+30000	1	1	0
+---------------------------------------------
+Simulation Completed
+---------------------------------------------
+$finish called at time : 40 ns : File "C:/Users/moham/OneDrive/Desktop/Zebraz/02_Testbench/tb_zebraz_nand2.v" Line 59
