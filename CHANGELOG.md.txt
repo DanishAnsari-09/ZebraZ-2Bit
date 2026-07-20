@@ -18,3 +18,10 @@
 	-Simulated the model
 	-verified waveforms
 	-Completed the documentation of the zebraz_nand2
+
+## v1.0.4 20/07
+	Designed zebraz_and2
+	-Developed testbench
+	-Simulated the model
+	-verified waveforms
+	-Completed the documentation of the zebraz_nand2
