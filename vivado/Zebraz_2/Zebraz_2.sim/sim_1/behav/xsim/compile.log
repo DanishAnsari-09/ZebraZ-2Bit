@@ -1,6 +1,6 @@
-INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/moham/OneDrive/Desktop/Zebraz/01_RTL/zebraz_nand2.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module zebraz_nand2
-INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/moham/OneDrive/Desktop/Zebraz/02_Testbench/tb_zebraz_nand2.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module tb_zebraz_nand2
-INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/moham/OneDrive/Desktop/Zebraz/vivado/Zebraz_2/Zebraz_2.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/moham/OneDrive/Desktop/Zebraz/01_RTL/zebraz_and2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module zebraz_and2
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/moham/OneDrive/Desktop/Zebraz/01_RTL/zebraz_inv.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module zebraz_inv
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/moham/OneDrive/Desktop/Zebraz/02_Testbench/tb_zebraz_and2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_zebraz_and2

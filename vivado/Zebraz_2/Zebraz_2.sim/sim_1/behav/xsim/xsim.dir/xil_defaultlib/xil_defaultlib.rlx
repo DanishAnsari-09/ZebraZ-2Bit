@@ -2,6 +2,9 @@
 2020.2
 Jun 16 2026
 11:10:11
-C:/Users/moham/OneDrive/Desktop/Zebraz/01_RTL/zebraz_nand2.v,1783869927,verilog,,C:/Users/moham/OneDrive/Desktop/Zebraz/02_Testbench/tb_zebraz_nand2.v,,zebraz_nand2,,,../../../../../../../../../../../AMDDesignTools/2026.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/moham/OneDrive/Desktop/Zebraz/01_RTL/zebraz_and2.v,1784528416,verilog,,C:/Users/moham/OneDrive/Desktop/Zebraz/01_RTL/zebraz_inv.v,,zebraz_and2,,,../../../../../../../../../../../AMDDesignTools/2026.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/moham/OneDrive/Desktop/Zebraz/01_RTL/zebraz_inv.v,1783432647,verilog,,C:/Users/moham/OneDrive/Desktop/Zebraz/01_RTL/zebraz_nand2.v,,zebraz_inv,,,../../../../../../../../../../../AMDDesignTools/2026.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/moham/OneDrive/Desktop/Zebraz/01_RTL/zebraz_nand2.v,1783869927,verilog,,C:/Users/moham/OneDrive/Desktop/Zebraz/02_Testbench/tb_zebraz_and2.v,,zebraz_nand2,,,../../../../../../../../../../../AMDDesignTools/2026.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/moham/OneDrive/Desktop/Zebraz/02_Testbench/tb_zebraz_and2.v,1784528582,verilog,,,,tb_zebraz_and2,,,../../../../../../../../../../../AMDDesignTools/2026.1/Vivado/data/rsb/busdef,,,,,
 C:/Users/moham/OneDrive/Desktop/Zebraz/02_Testbench/tb_zebraz_nand2.v,1783870036,verilog,,,,tb_zebraz_nand2,,,../../../../../../../../../../../AMDDesignTools/2026.1/Vivado/data/rsb/busdef,,,,,
 C:/Users/moham/OneDrive/Desktop/Zebraz/vivado/Zebraz_2/Zebraz_2.sim/sim_1/behav/xsim/glbl.v,1773749341,verilog,,,,glbl,,,,,,,,
